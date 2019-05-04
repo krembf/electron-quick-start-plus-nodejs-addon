@@ -1,3 +1,5 @@
+Addon example taken from here: https://github.com/nodejs/node-addon-examples/tree/master/1_hello_world/node-addon-api
+
 # electron-quick-start
 
 **Clone and run for a quick way to see Electron in action.**
